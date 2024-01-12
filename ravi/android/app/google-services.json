@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181581382941",
+    "project_id": "vidya-peeth",
+    "storage_bucket": "vidya-peeth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181581382941:android:7e7421e4029341d5edcdf4",
+        "android_client_info": {
+          "package_name": "com.example.project_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGcqWTNCwBIZ7xmrjZU4WydvghTE91sHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
